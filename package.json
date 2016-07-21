@@ -1,0 +1,24 @@
+{
+  "name": "pcm-bitdepth-converter",
+  "version": "0.1.0",
+  "description": "PCM audio data bit depth converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/doomjs/pcm-bitdepth-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doomjs/pcm-bitdepth-converter/issues"
+  },
+  "homepage": "https://github.com/doomjs/pcm-bitdepth-converter#readme",
+  "keywords": [
+    "pcm",
+    "bitdepth",
+    "converter"
+  ],
+  "author": "IDDQD",
+  "license": "MIT"
+}
